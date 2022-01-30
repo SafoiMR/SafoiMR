@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SafoiMR
+- 👋 Hi, I’m @Safoimr
 - 👀 I’m interested in learning more code and I want to become a Data Science
 - 🌱 I’m currently learning Python and Git
 - 💞️ I’m looking to collaborate on new projects
