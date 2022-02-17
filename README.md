@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ernestosmr
 - 👀 I’m interested in learning more code and I want to become a Frontend Development
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently web development
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me ernestogbh@gmail.com
 
