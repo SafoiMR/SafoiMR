@@ -13,9 +13,6 @@ Our agency offers a wide range of web development services, including:
 
 ## 💼 Our Team
 
-We have a team of experienced web developers, designers, and project managers who work together to deliver exceptional results for our clients. Meet our team:
-
--   👨‍💻 Santiago Martinez - Lead Developer
 -   👩‍🎨Elian - CEO and CO-founder
 
 ## 📈 Our Process
